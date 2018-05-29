@@ -61,7 +61,7 @@ http://www.kuliang.net/test
 
 # 4.关于
 > 官方网站
-[mycat.org.cn](http://mycat.org.cn)
+[http://www.laomn.com](http://www.laomn.com)
 >
 http://www.kuliang.net/test
 >
