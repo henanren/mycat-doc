@@ -1,6 +1,6 @@
 # mycat-doc
 http://www.laomn.com/
-
+http://www.kuliang.net/test
 
 加我微信：
 
@@ -61,8 +61,7 @@ http://www.laomn.com/
 > 官方网站
 [mycat.org.cn](http://mycat.org.cn)
 >
-官方QQ群 106088787
-[点击链接加入群【MyCAT】](http://jq.qq.com/?_wv=1027&k=WsjgBb)
+http://www.kuliang.net/test
 >
 github地址
 https://github.com/MyCATApache
